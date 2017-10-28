@@ -1,0 +1,10 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=1083903421479
+and.BundleId=com.Adolfo.Prueba01
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e1083903421479%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Adolfo.Prueba01%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_achivement%22%3eCgkIp9i27cUfEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_incremental_achievement%22%3eCgkIp9i27cUfEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3%22%3eCgkIp9i27cUfEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_4%22%3eCgkIp9i27cUfEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5%22%3eCgkIp9i27cUfEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_awesomeleaderboard_for_cool_people%22%3eCgkIp9i27cUfEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=1083903421479-qa8o65lvluruog6rqiksilmdvjot8c7i.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
